@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cdzmemoria/1.0.0": {
+        "runtime": {
+          "cdzmemoria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cdzmemoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

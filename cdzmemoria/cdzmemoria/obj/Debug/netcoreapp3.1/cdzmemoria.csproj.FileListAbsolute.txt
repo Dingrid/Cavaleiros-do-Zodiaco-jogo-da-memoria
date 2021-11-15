@@ -1,0 +1,17 @@
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\bin\Debug\netcoreapp3.1\cdzmemoria.exe
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\bin\Debug\netcoreapp3.1\cdzmemoria.deps.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\bin\Debug\netcoreapp3.1\cdzmemoria.runtimeconfig.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\bin\Debug\netcoreapp3.1\cdzmemoria.runtimeconfig.dev.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\bin\Debug\netcoreapp3.1\cdzmemoria.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\bin\Debug\netcoreapp3.1\cdzmemoria.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.csproj.AssemblyReference.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.Form1.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.Properties.Resources.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.csproj.GenerateResource.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.AssemblyInfoInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.AssemblyInfo.cs
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.csproj.CoreCompileInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\cdz jogo memoria\cdzmemoria\cdzmemoria\obj\Debug\netcoreapp3.1\cdzmemoria.genruntimeconfig.cache
